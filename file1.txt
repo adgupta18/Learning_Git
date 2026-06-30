@@ -1,2 +1,3 @@
 This is my first file
 We are adding the second line.
+We are adding the second line.
